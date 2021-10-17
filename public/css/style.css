@@ -1,0 +1,37 @@
+*{
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+  text-decoration: none !important;
+}
+
+.shadow-text{
+  text-shadow: 3px 3px #333333!important;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+color: #ebb400!important;
+}
+
+.small-F{
+  font-size: 15px!important;
+}
+.modal-dialog {
+  vertical-align: middle!important;
+}
+a{
+   color: inherit;
+} 
+.blue{color: #5c85dd ;transition: all 0.3s ease;}
+.blue:hover{color: rgb(78, 175, 255);}
+
+
+.violet{color: #d64899;transition: all 0.3s ease;}
+.violet:hover{color: #7973f3;}
+
+
+.red{color: #ff2d2d;transition: all 0.3s ease;}
+.red:hover{color: rgb(255, 110, 110);}
+
+.p{
+  margin-bottom: 15px;
+}
